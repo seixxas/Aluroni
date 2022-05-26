@@ -14,7 +14,6 @@ export default function Cardapio() {
 
 
   return (
-    
       <section className={styles.cardapio}>
         <h3 className={stylesTema.titulo}>Cardápio</h3>
         <Buscador
